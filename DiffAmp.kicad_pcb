@@ -4771,9 +4771,9 @@
     (pad 1 np_thru_hole circle (at 0 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
   )
 
-  (gr_line (start 71.755 59.69) (end 171.45 59.69) (angle 90) (layer Eco2.User) (width 0.2))
-  (gr_line (start 71.755 95.25) (end 71.755 59.69) (angle 90) (layer Eco2.User) (width 0.2))
-  (gr_line (start 171.45 95.25) (end 71.755 95.25) (angle 90) (layer Eco2.User) (width 0.2))
-  (gr_line (start 171.45 95.25) (end 171.45 59.69) (angle 90) (layer Eco2.User) (width 0.2))
+  (gr_line (start 71.755 59.69) (end 71.755 95.25) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 171.45 59.69) (end 71.755 59.69) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 171.45 95.25) (end 171.45 59.69) (angle 90) (layer Edge.Cuts) (width 0.15))
+  (gr_line (start 71.755 95.25) (end 171.45 95.25) (angle 90) (layer Edge.Cuts) (width 0.15))
 
 )
