@@ -1583,7 +1583,7 @@ Wire Notes Line
 Text Notes 6650 2550 0    39   ~ 0
 Gain setting Stage 1\nx10/x100
 Text Notes 8200 6350 0    59   ~ 0
-Missing component values will be fitted after experimentation
+Missing component values will be added later
 Wire Notes Line
 	500  3950 11200 3950
 Wire Notes Line

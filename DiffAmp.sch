@@ -519,8 +519,6 @@ Text Notes 900  3500 0    60   ~ 0
 Power Supply
 Text Notes 9750 5800 0    39   ~ 0
 Variant b\n(asymmetric) Split-Rail-Circuit
-Text Notes 4500 3800 0    39   ~ 0
-Spannungsfestigkeit C5/C6!!!\n\n
 Wire Wire Line
 	2000 4500 2900 4500
 Wire Wire Line
